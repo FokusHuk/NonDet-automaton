@@ -1,0 +1,7 @@
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\bin\Debug\TA_ndka.exe.config
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\bin\Debug\TA_ndka.exe
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\bin\Debug\TA_ndka.pdb
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\obj\Debug\TA_ndka.csprojAssemblyReference.cache
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\obj\Debug\TA_ndka.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\obj\Debug\TA_ndka.exe
+C:\Users\Ilya Axenov\source\repos\TA_ndka\TA_ndka\obj\Debug\TA_ndka.pdb
